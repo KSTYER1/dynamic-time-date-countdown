@@ -1,6 +1,7 @@
-# Dynamic Texts
+# Dynamic Time/Date/Countdown
 
-Dynamic Texts is a third-party OBS Studio filter bundle for text sources.
+Dynamic Time/Date/Countdown is a third-party OBS Studio filter bundle for text
+sources.
 
 It includes two filters:
 
@@ -84,9 +85,9 @@ Restart OBS after installation. The filters appear in the filter menu for
 
 ## License
 
-Dynamic Texts is licensed under GPL-2.0-or-later.
+Dynamic Time/Date/Countdown is licensed under GPL-2.0-or-later.
 
 ## Disclaimer
 
-Dynamic Texts is an unofficial third-party plugin and is not affiliated with
-or endorsed by the OBS Project.
+Dynamic Time/Date/Countdown is an unofficial third-party plugin and is not
+affiliated with or endorsed by the OBS Project.

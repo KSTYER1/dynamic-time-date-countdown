@@ -1,7 +1,7 @@
-Dynamic Texts - OBS Filter Plugin v1.3.0
-========================================
+Dynamic Time/Date/Countdown - OBS Filter Plugin v1.3.0
+======================================================
 
-Dynamic Texts is a filter bundle for OBS text sources.
+Dynamic Time/Date/Countdown is a filter bundle for OBS text sources.
 
 Included filters:
 
