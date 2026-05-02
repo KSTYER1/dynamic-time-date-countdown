@@ -41,7 +41,7 @@ package and is distributed separately as `dynamic-next-stream`.
 Download the release archive and extract or copy its contents into your OBS
 Studio installation directory.
 
-The final layout should include:
+The final layout currently uses the technical package id `dynamic-texts`:
 
 ```text
 obs-plugins/64bit/dynamic-texts.dll
@@ -66,6 +66,7 @@ Restart OBS after installation. The filters appear in the filter menu for
 
 ### 1.3.0
 
+- Renamed the public plugin bundle to `Dynamic Time/Date/Countdown`.
 - Split the `Next Stream` dock into the separate `dynamic-next-stream` plugin.
 - Kept this package focused on text filters only.
 - Reduced size and removed the dock-specific Qt dependency path.
@@ -77,7 +78,8 @@ Restart OBS after installation. The filters appear in the filter menu for
 ### 1.1.0
 
 - Added `Dynamic Countdown`.
-- Renamed the plugin from `dynamic-time-date-filter` to `dynamic-texts`.
+- Renamed the technical package id from `dynamic-time-date-filter` to
+  `dynamic-texts`.
 
 ### 1.0.0
 
@@ -91,3 +93,7 @@ Dynamic Time/Date/Countdown is licensed under GPL-2.0-or-later.
 
 Dynamic Time/Date/Countdown is an unofficial third-party plugin and is not
 affiliated with or endorsed by the OBS Project.
+
+AI-assisted tools were used during development and release preparation. The
+maintainer is responsible for reviewing, testing, and publishing the released
+plugin.
